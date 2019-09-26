@@ -1,0 +1,31 @@
+p{
+	text-indent: 30px;
+	word-spacing: 10px;
+}
+h1{
+	text-align: center;
+	background-color: blueviolet;
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 40px;
+	color: black;
+	font-family: 'Alfa Slab One', cursive;
+}
+div{
+	font-size:130%;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVygVcB5Un1493u0AmcZKdp99Kzk3u_QquaRC3r72gbr7QKrB");
+	background-repeat: no-repeat;
+	background-size: cover ;
+	background-attachment: fixed;
+	background-position: center;
+color: #FFF000;
+}
+body{
+	background-color: saddlebrown;
+}
+h2{
+	color: rgb(49, 226, 43);
+	font-family: 'Didact Gothic', sans-serif;
+}
+a{
+	color: rgb(0, 102, 255);
+}

@@ -1,0 +1,27 @@
+body{
+	background-image: url(http://66.media.tumblr.com/tumblr_m37t2tZDph1qgzdhjo3_r1_400.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	background-position: center center;
+	color: rgb(72, 255, 0);
+	font-size: 130%;
+}
+h2{
+	color: rgb(49, 226, 43);
+	font-family: 'Didact Gothic', sans-serif;
+}
+p{
+	text-indent: 30px;
+	word-spacing: 10px;
+	
+}
+h2{
+	text-align: center;
+	background-color: blueviolet;
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 40px;
+	color: black;
+	font-family: 'Alfa Slab One', cursive;
+}
+
